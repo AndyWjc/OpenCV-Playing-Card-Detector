@@ -1,4 +1,4 @@
-# OpenCV-Playing-Card-Detector
+# OpenCV-Playing-Card-Detector 识别扑克
 This is a Python program that uses OpenCV to detect and identify playing cards from a PiCamera video feed on a Raspberry Pi. Check out the YouTube video that describes what it does and how it works:
 
 https://www.youtube.com/watch?v=m-QPjO-2IkA
